@@ -1,7 +1,7 @@
 # Population Analysis by Gender and Country (2001–2022)
 
 ## 📋 Description
-This project analyzes global population data with a focus on male and female demographics. It involves data cleaning, preprocessing, and visual exploration using pandas and matplotlib.
+This project analyzes global population data with a focus on male and female demographics. It involves data cleaning, preprocessing, and visual exploration using pandas, matplotlib and seaborn.
 
 ## 🗂 Features
 - Load and preview raw population data
